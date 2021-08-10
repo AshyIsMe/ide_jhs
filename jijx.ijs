@@ -38,6 +38,47 @@ jhjmlink''
  'helpstdlib'    jhmab'stdlib'
  'about'         jhmab'about'
 'adv'jhmg '>';0;10
+
+'eq'jhmg '=';0;10
+'eqdot'jhmg '=.';0;10
+'eqco'jhmg '=:';0;10
+'lt'jhmg '<';0;10
+'ltdot'jhmg '<.';0;10
+'ltco'jhmg '<:';0;10
+'gt'jhmg '>';0;10
+'gtdot'jhmg '>.';0;10
+'gtco'jhmg '>:';0;10
+'under'jhmg '_';0;10
+'underdot'jhmg '_.';0;10
+'underco'jhmg '_:';0;10
+'plus'jhmg '+';0;10
+'plusdot'jhmg '+.';0;10
+'plusco'jhmg '+:';0;10
+'star'jhmg '*';0;10
+'stardot'jhmg '*.';0;10
+'starco'jhmg '*:';0;10
+'minus'jhmg '-';0;10
+'minusdot'jhmg '-.';0;10
+'minusco'jhmg '-:';0;10
+'percent'jhmg '%';0;10
+'percentdot'jhmg '%.';0;10
+'percentco'jhmg '%:';0;10
+'hat'jhmg '^';0;10
+'hatstope'jhmg '^!.p';0;10
+'hatdot'jhmg '^.';0;10
+'hatco'jhmg '^:';0;10
+'dollar'jhmg '$';0;10
+'dollardot'jhmg '$.';0;10
+'dollarco'jhmg '$:';0;10
+'tilde'jhmg '~';0;10
+'tildedot'jhmg '~.';0;10
+'tildeco'jhmg '~:';0;10
+'bar'jhmg '|';0;10
+'bardot'jhmg '|.';0;10
+'bardot'jhmg '|.';0;10
+'bardotfit'jhmg '|.!.f';0;10
+'barco'jhmg '|:';0;10
+
 jhmz''
 jhresize''
 'log' jhec'<LOG>'
